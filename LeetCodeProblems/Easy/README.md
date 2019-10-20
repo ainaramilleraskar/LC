@@ -4,3 +4,4 @@ ALMOST DONE:
 - TwoSum
 
 FAILED:
+- ReverseInteger
