@@ -4,6 +4,7 @@ DONE LIKA A PRO:
 DONE:
 - PalindromeNumber
 - LongestCommonPrefix
+- ValidParentheses
 
 ALMOST DONE:
 - TwoSum
