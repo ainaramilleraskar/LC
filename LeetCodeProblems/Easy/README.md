@@ -1,5 +1,6 @@
 DONE LIKA A PRO:
 - RomanToInteger
+- RemoveElement
 
 DONE:
 - PalindromeNumber
