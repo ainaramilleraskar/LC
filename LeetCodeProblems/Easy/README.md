@@ -6,11 +6,12 @@ DONE:
 - PalindromeNumber
 - LongestCommonPrefix
 - ValidParentheses
+- RemoveDuplicatesFromSortedList
 
 ALMOST DONE:
 - TwoSum
 
 FAILED:
 - ReverseInteger
-- Remove Duplicates from Sorted Array
+- RemoveDuplicatesfromSortedArray
 - ClimbingStars
