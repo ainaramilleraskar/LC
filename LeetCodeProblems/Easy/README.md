@@ -2,6 +2,7 @@ DONE LIKA A PRO:
 - RomanToInteger
 - RemoveElement
 - PascalsTriangle
+- PascalsTriangle2
 
 DONE:
 - PalindromeNumber
