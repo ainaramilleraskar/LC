@@ -10,6 +10,7 @@ DONE:
 - LongestCommonPrefix
 - ValidParentheses
 - RemoveDuplicatesFromSortedList
+- SingleNumber
 
 ALMOST DONE:
 - TwoSum
