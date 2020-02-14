@@ -22,3 +22,4 @@ FAILED:
 - RemoveDuplicatesfromSortedArray
 - ClimbingStars
 - SymmetricTree
+- LinkedListCycle
