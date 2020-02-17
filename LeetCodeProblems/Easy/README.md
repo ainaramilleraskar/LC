@@ -4,6 +4,8 @@ DONE LIKA A PRO:
 - PascalsTriangle
 - PascalsTriangle2
 - BestTimeToBuyAndSellStock
+- IntersectionOfTwoLinkedLists
+- MajorityElement
 
 DONE:
 - PalindromeNumber
