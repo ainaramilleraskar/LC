@@ -6,6 +6,7 @@ DONE LIKA A PRO:
 - BestTimeToBuyAndSellStock
 - IntersectionOfTwoLinkedLists
 - MajorityElement
+- CombineTwoTables
 
 DONE:
 - PalindromeNumber
