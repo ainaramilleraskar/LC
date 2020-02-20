@@ -19,6 +19,7 @@ ALMOST DONE:
 - TwoSum
 - SameTree
 - BestTimeToBuyAndSellStock2
+- SecondHighestSalary
 
 FAILED:
 - ReverseInteger
