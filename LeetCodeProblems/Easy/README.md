@@ -7,6 +7,7 @@ DONE LIKA A PRO:
 - IntersectionOfTwoLinkedLists
 - MajorityElement
 - CombineTwoTables
+- EmployeesEarningMoreThanTheirManagers
 
 DONE:
 - PalindromeNumber
