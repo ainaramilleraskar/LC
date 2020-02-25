@@ -1,0 +1,17 @@
+class Solution {
+    public boolean rotateString(String A, String B) {
+        for(int i = 0; i < A.toCharArray().length; i++) {
+            if((A.charAt(0) == B.charAt(B.toCharArray().length - 1)) && (String.valueOf(A.substring(1)).equals(String.valueOf(B.substring(0, B.toCharArray().length - 1))))) {
+                return true;
+            } else {
+                A = A.substring(1) + A.charAt(0);
+            }
+        }
+        
+        if(A.isEmpty() && B.isEmpty()) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+}

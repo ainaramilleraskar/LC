@@ -8,6 +8,7 @@ DONE LIKA A PRO:
 - MajorityElement
 - CombineTwoTables
 - EmployeesEarningMoreThanTheirManagers
+- RotateString
 
 DONE:
 - PalindromeNumber
